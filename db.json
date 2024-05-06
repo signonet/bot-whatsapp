@@ -1,0 +1,59 @@
+[
+  {
+    "ref": "ans_7e4ecc5e-d47b-4e08-bff6-0ea8c7a41753",
+    "keyword": "key_4b654a74-7d71-472d-991d-032401eb75b7",
+    "answer": "Hola, este es el bot de qpase.com 😀",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "916d540c2e0839252ced8e869a80a629",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_d019b7de-1ee4-4981-8b1b-a7aa8a461939",
+    "keyword": "ans_7e4ecc5e-d47b-4e08-bff6-0ea8c7a41753",
+    "answer": "Me puedes consultar por los espectáculos, bandas y fechas que tenemos disponibles.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "6a10d7c0a202fb50e1a1388682f63489",
+    "from": "5493513053753"
+  },
+  {
+    "ref": "ans_82a98420-5cd7-4313-8901-d83db1d1f1e3",
+    "keyword": "ans_d019b7de-1ee4-4981-8b1b-a7aa8a461939",
+    "answer": "Cuando elijas tu banda preferida y una fecha, podrás comprar tu entrada usando tu medio de pago favorito",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "71c1038889613ea76733eedef1ca26b3",
+    "from": "5493513053753"
+  }
+]
